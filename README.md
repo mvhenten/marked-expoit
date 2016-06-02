@@ -13,4 +13,4 @@ If a malicious user could provide this input to the application javascript&#x58d
 
 [try me](javascript&#x58document;alert&#40;1&#41;)
 
-[also try me](javascript:alert('boo'))
+[also try me](javascript:alert&#39;'boo'&#39;)
